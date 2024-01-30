@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\chris\source\repos\Render4\Render4\main.cpp(98,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chris\source\repos\Render4\Render4\main.cpp(105,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chris\source\repos\Render4\Render4\main.cpp(153,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chris\source\repos\Render4\Render4\main.cpp(190,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Render4.vcxproj -> C:\Users\chris\source\repos\Render4\x64\Debug\Render4.exe
