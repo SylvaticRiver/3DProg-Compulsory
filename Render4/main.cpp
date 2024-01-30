@@ -30,7 +30,7 @@ const char* fragmentShaderSource = "#version 330 core\n"
 "}\n\0";
 
 ofstream out;
-string name("C:/Users/chris/source/repos/Render4/files");
+string name("C:/Users/chris/source/repos/Render4/files/verticies.txt");
 
 struct Point2D {
 	float x;
